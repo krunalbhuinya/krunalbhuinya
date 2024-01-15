@@ -1,3 +1,7 @@
+
+this project name is phone number book 
+this project code in python programming language. this project save phone number and save in text file format
+
 - 👋 Hi, I’m @krunalbhuinya
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
